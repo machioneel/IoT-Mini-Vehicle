@@ -83,7 +83,7 @@ Aplikasi web modern untuk mengontrol mobil RC berbasis ESP32-CAM melalui interne
 
 ### **1. Clone Repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/machioneel/IoT-Mini-Vehicle.git
 cd rc-car-controller
 ```
 
